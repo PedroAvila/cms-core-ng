@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS_CORE_NG", "CMS_CORE_NG.csproj", "{B4E24D4A-2785-4D04-9478-45020576EA35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingService", "..\LoggingService\LoggingService.csproj", "{945B6973-A980-4740-93AB-88ADF2722900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingService", "..\LoggingService\LoggingService.csproj", "{945B6973-A980-4740-93AB-88ADF2722900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "..\DataService\DataService.csproj", "{219107D1-7DC8-4633-8BBC-C7B01B075CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelService", "..\ModelService\ModelService.csproj", "{DBA323D6-B834-43E8-99E5-A078A75D2855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{945B6973-A980-4740-93AB-88ADF2722900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{945B6973-A980-4740-93AB-88ADF2722900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{945B6973-A980-4740-93AB-88ADF2722900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219107D1-7DC8-4633-8BBC-C7B01B075CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219107D1-7DC8-4633-8BBC-C7B01B075CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219107D1-7DC8-4633-8BBC-C7B01B075CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219107D1-7DC8-4633-8BBC-C7B01B075CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA323D6-B834-43E8-99E5-A078A75D2855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA323D6-B834-43E8-99E5-A078A75D2855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA323D6-B834-43E8-99E5-A078A75D2855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA323D6-B834-43E8-99E5-A078A75D2855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

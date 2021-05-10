@@ -1,0 +1,9 @@
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.dll
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.csprojAssemblyReference.cache
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.dll
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.pdb

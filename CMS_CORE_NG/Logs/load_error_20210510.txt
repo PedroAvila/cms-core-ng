@@ -340,3 +340,45 @@ UserName : "User"
 ProcessId : 15568
 ProcessName : "CMS_CORE_NG"
 ---------------------------------------------------------------
+--------------------------------------------------------------
+Timestamp - 10/05/2021 2:15:58 PM -05:00 | Level - Error |
+--------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_CORE_NG.Program.Main(String[] args) in D:\CMS_CORE_NG\CMS_CORE_NG\Program.cs:line 29"
+InnerException : null
+Source : "CMS_CORE_NG"
+Application : "CMS_APP"
+MachineName : "DESKTOP-302P5UA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 6.2.9200.0"
+Version : "3.1.14"
+UserName : "User"
+ProcessId : 3392
+ProcessName : "CMS_CORE_NG"
+---------------------------------------------------------------
+--------------------------------------------------------------
+Timestamp - 10/05/2021 2:20:12 PM -05:00 | Level - Error |
+--------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_APP"
+MachineName : "DESKTOP-302P5UA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 6.2.9200.0"
+Version : "3.1.14"
+UserName : "User"
+ProcessId : 3392
+ProcessName : "CMS_CORE_NG"
+---------------------------------------------------------------
+--------------------------------------------------------------
+Timestamp - 10/05/2021 2:21:00 PM -05:00 | Level - Error |
+--------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_APP"
+MachineName : "DESKTOP-302P5UA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 6.2.9200.0"
+Version : "3.1.14"
+UserName : "User"
+ProcessId : 3392
+ProcessName : "CMS_CORE_NG"
+---------------------------------------------------------------

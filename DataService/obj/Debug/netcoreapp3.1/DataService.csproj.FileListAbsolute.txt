@@ -7,3 +7,13 @@ D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
 D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
 D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.dll
 D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.runtimeconfig.json
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\DataService.runtimeconfig.dev.json
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\FuntionalService.dll
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\LoggingService.dll
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\ModelService.dll
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\FuntionalService.pdb
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+D:\CMS_CORE_NG\DataService\bin\Debug\netcoreapp3.1\ModelService.pdb
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
+D:\CMS_CORE_NG\DataService\obj\Debug\netcoreapp3.1\DataService.genruntimeconfig.cache
